@@ -4,11 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_anadir.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_cancelar.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_cuenta_dueno.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_darbaja.xml" value="0.19655797101449277" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_datapet.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_localizacion.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_main.xml" value="0.19655797101449277" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_resetpassword.xml" value="0.1331521739130435" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/activity_signup.xml" value="0.1331521739130435" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/datapet.xml" value="0.1331521739130435" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/petdata.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/WalkMyPet/app/src/main/res/layout/petlist_format.xml" value="0.19655797101449277" />
         <entry key="app/src/main/res/layout/activity_cuenta_dueno.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_localizacion.xml" value="0.15520833333333334" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.13496376811594202" />
